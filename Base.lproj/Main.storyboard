@@ -84,12 +84,9 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="accionCopy" destination="CDv-W6-4K3" id="WtT-es-0eD"/>
-                        <outlet property="clearBtn" destination="q0g-gr-5kt" id="1ru-Ju-8Wk"/>
-                        <outlet property="copyBtn" destination="CDv-W6-4K3" id="31C-9Q-biM"/>
-                        <outlet property="resultLabel" destination="wDd-ag-ZCF" id="ttk-Ub-ynm"/>
-                        <outlet property="valueCopyTextField" destination="bag-Qk-Vfq" id="ZNb-f9-eXw"/>
-                        <outlet property="valueTextField" destination="JLX-Jc-DrM" id="STS-hu-T0t"/>
+                        <outlet property="oneTextField" destination="JLX-Jc-DrM" id="Xpa-FO-unc"/>
+                        <outlet property="resultLabel" destination="wDd-ag-ZCF" id="a1C-dG-bcr"/>
+                        <outlet property="twoTextField" destination="bag-Qk-Vfq" id="YMU-rb-JHn"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
